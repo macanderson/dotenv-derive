@@ -1,13 +1,6 @@
-# Mac OS X
-.DS_Store
-
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
+uv.lock
+.env
 .venv
+.DS_Store
+Dist
+.git
